@@ -1,10 +1,10 @@
-County,Percent (%)
+Admin2,Percent (%)
 Alachua,57.3
 Baker,70.7
 Bay,66.3
 Bradford,70.7
 Brevard,67.4
-Broward,65.0
+Broward,65
 Calhoun,70.2
 Charlotte,66.9
 Citrus,67.5
@@ -31,13 +31,13 @@ Hillsborough,68.8
 Holmes,76.2
 Indian River,59.7
 Jackson,74.1
-Jefferson,65.0
+Jefferson,65
 Lafayette,77.8
 Lake,64.4
-Lee,62.0
+Lee,62
 Leon,58.3
 Levy,73.6
-Liberty,71.0
+Liberty,71
 Madison,74.9
 Manatee,61.7
 Marion,66.8
@@ -45,7 +45,7 @@ Martin,54.6
 Monroe,64.4
 Nassau,68.6
 Okaloosa,67.1
-Okeechobee,74.0
+Okeechobee,74
 Orange,65.9
 Osceola,75.3
 Palm Beach,59.5
@@ -66,4 +66,3 @@ Volusia,66.3
 Wakulla,74.5
 Walton,72.2
 Washington,69.2
-State Total,64.6
